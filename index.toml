@@ -1,0 +1,121 @@
+hash-format = "sha1"
+
+[[files]]
+file = "mods/fast-ip-ping-v1.0.7-mc1.21.6-neoforge.jar"
+hash = "a5f82d95cc65592b7b40b57743f99c83c4fb2e0d"
+type = "mod"
+editable = false
+force-copy = false
+size = 10330
+
+[[files]]
+file = "mods/lithium-neoforge-0.18.1+mc1.21.8.jar"
+hash = "b8e673bd3d6c6b00accac53a14fdce37b266849e"
+type = "mod"
+editable = false
+force-copy = false
+size = 816322
+
+[[files]]
+file = "mods/PEAK-Craft-1.0.2.jar"
+hash = "03f90126a165329b8895b3afbfeb97be4c6876c2"
+type = "mod"
+editable = false
+force-copy = false
+size = 416222
+
+[[files]]
+file = "mods/chat_heads-0.14.0-neoforge-1.21.6.jar"
+hash = "083fd8ba010b20eaaebe21852552ed8bf158a49b"
+type = "mod"
+editable = false
+force-copy = false
+size = 82529
+
+[[files]]
+file = "mods/skinrestorer-2.4.3+1.21.6-neoforge.jar"
+hash = "3ccc3b7571c7e35b7757ba3e6f32aba7bd2737a7"
+type = "mod"
+editable = false
+force-copy = false
+size = 188252
+
+[[files]]
+file = "mods/cloth-config-19.0.147-neoforge.jar"
+hash = "b3e37fef3d8bb1b7b3af75fbe47f5abbfafda562"
+type = "mod"
+editable = false
+force-copy = false
+size = 1155514
+
+[[files]]
+file = "mods/CreativeCore_NEOFORGE_v2.14.7_mc1.21.8.jar"
+hash = "62bf3baf46a413daddfa8696a2b25b49f869da21"
+type = "mod"
+editable = false
+force-copy = false
+size = 1311091
+
+[[files]]
+file = "mods/emotecraft-neoforge-for-MC1.21.7-3.0.0-b.build.123.jar"
+hash = "b70737a511f7cb2e572f1e97fc098a0b82bc58a8"
+type = "mod"
+editable = false
+force-copy = false
+size = 1159690
+
+[[files]]
+file = "mods/MouseTweaks-neoforge-mc1.21.6-2.28.jar"
+hash = "c4d57d318387b608ef5230a03a6c632157438df3"
+type = "mod"
+editable = false
+force-copy = false
+size = 73950
+
+[[files]]
+file = "mods/piggyback-neoforge-1.21.6-1.1.0.jar"
+hash = "750d02bc621a2f416842a5c4683edd237cbcf1e1"
+type = "mod"
+editable = false
+force-copy = false
+size = 343735
+
+[[files]]
+file = "mods/PlayerAnimationLib-1.0.12+mc1.21.8.jar"
+hash = "16e7dc88a404e498e7c9e5a6b81261caa0899f38"
+type = "mod"
+editable = false
+force-copy = false
+size = 1172108
+
+[[files]]
+file = "mods/happy_airships-neoforge-1.1.0.jar"
+hash = "d9b3b6a2909e93c20195bd6732a3f1239e34b1cf"
+type = "mod"
+editable = false
+force-copy = false
+size = 83895
+
+[[files]]
+file = "mods/sodium-neoforge-0.7.2+mc1.21.8.jar"
+hash = "e66282d85ed0d769f3ec602297f0110e36e88c35"
+type = "mod"
+editable = false
+force-copy = false
+size = 1253306
+
+[[files]]
+file = "mods/voicechat-neoforge-1.21.8-2.6.6.jar"
+hash = "3c9047096422d6c95e6237e18a6560ca5f0f68dc"
+type = "mod"
+editable = false
+force-copy = false
+size = 4869707
+
+[[files]]
+file = "mods/faewulf_lib-neoforge-1.21.6-1.3.2.jar"
+hash = "052c4806727407ad1e3e05ae9ccac8ffa3f38092"
+type = "mod"
+editable = false
+force-copy = false
+size = 323368
